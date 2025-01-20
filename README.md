@@ -12,8 +12,8 @@ I'm Tubowen, a Software Developer from Beijing China.
 - [Project 2](https://github.com/yourusername/project2)
 
 ## Skills
-- Programming Languages: [Language 1], [Language 2]
-- Tools: [Tool 1], [Tool 2]
+- Programming Languages: JavaScript, TypeScript，Golang，Rust
+- Tools: Vue, React
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
