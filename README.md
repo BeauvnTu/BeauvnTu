@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], a [Your Profession] from [Your Location].
+I'm Tubowen, a Software Developer from Beijing China.
 
 ## About Me
 - 🌱 I’m currently learning [Technology/Field].
