@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hey👋 I'm Tubowen
 
-I'm Tubowen, A software Developer from Beijing China.
+A software Developer from Beijing China.
 
 ## About Me
 - 🌱 I’m currently learning [Technology/Field].
