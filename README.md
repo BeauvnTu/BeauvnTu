@@ -14,6 +14,3 @@ A software Developer from Beijing China.
 ## Skills
 - Programming Languages: JavaScript, TypeScript，Golang，Rust
 - Tools: Vue, React
-
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
