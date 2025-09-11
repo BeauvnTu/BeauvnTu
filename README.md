@@ -6,7 +6,7 @@ A software Developer from Beijing China.
 - 🌱 I’m currently learning [Technology/Field].
 - 👯 I’m looking to collaborate on [Project Type].
 - 📫 How to reach me: [Your Email] / [Your LinkedIn]
-- 💻 Tech stack: <img src="https://skillicons.dev/icons?i=golang,javascript,java,typescript,nodejs,react,docker,vue,git" height="24" />
+- 💻 Tech stack: <img src="https://skillicons.dev/icons?i=golang,javascript,java,typescript,nodejs,docker,vue,git,react" height="24" />
 
 ## My Projects
 - [Project 1](https://github.com/yourusername/project1)
