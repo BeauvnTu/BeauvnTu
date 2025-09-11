@@ -6,7 +6,7 @@
   <li>🌱 I’m currently learning Machine Learning, AI Agent , Frontend Tool Chain , Distributed System, Cross Platform.</li>
   <li>📖 I’m also learning English to improve my communication and technical reading.</li>
   <li>📮 How to reach me: <a target="_blank" href="tubowen0522@gmail.com">tubowen0522@gmail.com</a></li>
-  <li>📝 I regularly write articles on <a href="https://bowen-tu.vercel.app/" target="_blank">Blog</a> and <a href="https://bowen-tu.vercel.app/" target="_blank">Github Page</a> </li>
+  <li>📝 I regularly write articles on <a href="https://bowen-tu.vercel.app/" target="_blank">Blog</a> , deploy synchronously on <a href="https://bowen-tu.vercel.app/" target="_blank">Github Page</a> </li>
   <li>🎮 Off-Screen Life: Basketball • Gym • Switch / Steam</li>
   <li>📄 Know about my experiences <a href="" target="_blank">Bowen Tu</a></li>
 </ul>
